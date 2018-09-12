@@ -51,6 +51,9 @@ teams, so team members can check your work.
 **Step 2:** Clone the repository using...  
 `$git clone http://<url>`
 
+**Step 3:** Change directory into your project.  
+`$cd ./your_project_name`  
+
 **Step 3:** Make changes to repository. Get to Work!
 
 **Step 4:** Add changes to stage.  
