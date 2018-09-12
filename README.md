@@ -88,7 +88,7 @@ before**
 ```
 //  HTML
 <tagname property="value" property="value"></tagname>
-<tagname property="value" property="value"></tagname>
+<tagname property="value" property="value"/>
 
 //  CSS
 selector {
