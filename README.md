@@ -1,5 +1,9 @@
 # Week_02
 
+## Announcements
+You all get full credit for attendance last week. Fill out the assignment form  
+below to get attendance for today.
+
 ## Setup for Development (optional for this assignment)
 
 ### Mac
@@ -40,6 +44,23 @@ $git log
 If you are not a collaborator on a repository, you should first fork the  
 repository before cloning it. And, always use Pull Requests when working in  
 teams, so team members can check your work.
+
+### Step By Step Guide
+**Step 1:** Create a repository on Github  
+
+**Step 2:** Clone the repository using...  
+`$git clone http://<url>`
+
+**Step 3:** Make changes to repository. Get to Work!
+
+**Step 4:** Add changes to stage.  
+`$git add .`
+
+**Step 5:** Commit changes to local repository.
+`$git commit -m "commit message"`
+
+**Step 6:** Push changes to remote repository (Github).
+`$git push origin`
 
 ## HTML & CSS
 **Google what you want to do in HTML/CSS, your question has usually been asked  
@@ -84,3 +105,6 @@ It should have the following:
 - Some CSS Styles
 
 **If you don't know how to do something Google it, or look at [this for reference](https://www.w3schools.com/)**
+
+### Submit Your Assignment by Filling out this form with your repository's URL
+[Here's the Form ](https://docs.google.com/forms/d/e/1FAIpQLSftpRb80bxIhYH2_39qyrrwRx_vHKjRmNQwJsmSx15GIYZo_Q/viewform?usp=sf_link)
